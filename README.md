@@ -5,7 +5,7 @@
 
 - find out OS name 
 `uname` or `uname -a`
-`whoami`
+
 
 - how to create file in linux 
 `touch filename` or `nano filename`
@@ -20,7 +20,7 @@
 - how to come out of the folder or 1 step back `cd ..`
 
 - how can we check our current location `pwd`
-- whoami 
+- `whoami`
 
 - how to copy file `cp filename destination`
 
